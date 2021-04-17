@@ -91,5 +91,15 @@ namespace WorkingWithBits
             }
             return res;
         }
+
+        public int onesComplement(int value)
+        {
+            return ~value;
+        }
+
+        public int twosComplement(int value)
+        {
+            return onesComplement(value) + 1;
+        }
     }
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ar0a8QINBkdeCcLmh7Xmtz0tMGCcCgxauY3Bp4RMTJUREmKBwn9JYhtFJS+mgE6nl64R00Gbj89GyoF1HPodQw==",
+  "dgSpecHash": "/TbHMckugkrcjb6cDTmOKrkVEZXeBeEK3X9qZE+690gcE6NtFunCmHEGFIGWnzbY/ag+Y1RhNfSx27/Ol8X0Ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABANA\\source\\repos\\WorkingWithBits\\WorkingWithBits\\WorkingWithBits.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\WinDows\\source\\repos\\working-with-bits\\WorkingWithBits\\WorkingWithBits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WinDows\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
   "logs": []
 }
